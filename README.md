@@ -24,4 +24,6 @@ This code creates a simple text editor application using the Tkinter library in 
    - The edit menu is added as a cascade menu to the main menu using `menu.add_cascade(label="Edit", menu=edit_menu)`.
    - The options for the edit menu are added using `edit_menu.add_command()`.
   
-     
+  https://github.com/Madalacharitavya/TextEditor-Using-Python/assets/102969979/ee4cd089-09e2-4be5-a70b-07b78188ead3
+
+   

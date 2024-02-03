@@ -26,4 +26,10 @@ This code creates a simple text editor application using the Tkinter library in 
   
   https://github.com/Madalacharitavya/TextEditor-Using-Python/assets/102969979/ee4cd089-09e2-4be5-a70b-07b78188ead3
 
-   
+   ## Contributing
+
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
